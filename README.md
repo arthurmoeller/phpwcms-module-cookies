@@ -1,0 +1,1 @@
+# phpwcms-module-cookies
